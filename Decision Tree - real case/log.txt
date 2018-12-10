@@ -1,0 +1,292 @@
+----------------------------------------------------------------
+2 VARIABILE DECISIONALE
+----------------------------------------------------------------
+----------------------------------------------------------------
+Classificazione dell dato X-1: [;-1.000000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -1 < -1.833333e-01 )
+Classificazione dell dato 1, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-2: [;-0.766667;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -7.666667e-01 < -1.833333e-01 )
+Classificazione dell dato 2, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-3: [;-0.533333;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -5.333333e-01 < -1.833333e-01 )
+Classificazione dell dato 3, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-4: [;-0.500000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -5.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 4, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-5: [;-0.433333;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -4.333333e-01 < -1.833333e-01 )
+Classificazione dell dato 5, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-6: [;-0.400000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -4.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 6, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-7: [;-0.333333;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -3.333333e-01 < -1.833333e-01 )
+Classificazione dell dato 7, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-8: [;-0.300000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -3.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 8, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-9: [;-0.300000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -3.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 9, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-10: [;-0.266667;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -2.666667e-01 < -1.833333e-01 )
+Classificazione dell dato 10, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-11: [;-0.233333;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -2.333333e-01 < -1.833333e-01 )
+Classificazione dell dato 11, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-12: [;-0.200000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -2.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 12, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-13: [;-0.200000;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta LEFT ( -2.000000e-01 < -1.833333e-01 )
+Classificazione dell dato 13, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-14: [;-0.133333;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 14, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-15: [;0.400000;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 15, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-16: [;0.500000;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 5.000000e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 16, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-17: [;0.500000;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 5.000000e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 17, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-18: [;0.633333;-1.000000;-1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 18, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-19: [;0.633333;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 19, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-20: [;0.733333;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 7.333333e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 20, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-21: [;0.866667;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 8.666667e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 21, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-22: [;0.866667;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 8.666667e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 22, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-23: [;0.900000;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.000000e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 23, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-24: [;0.966667;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -1.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 24, scelta CLASSE 1
+----------------------------------------------------------------
+1 VARIABILE DECISIONALE
+----------------------------------------------------------------
+----------------------------------------------------------------
+Classificazione dell dato X-1: [;-1.000000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta LEFT ( -1 < -4.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 1, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-2: [;-0.766667;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta LEFT ( -7.666667e-01 < -4.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 2, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-3: [;-0.533333;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta LEFT ( -5.333333e-01 < -4.833333e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 3, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-4: [;-0.500000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 4, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-5: [;-0.433333;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -4.333333e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -4.333333e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -4.333333e-01 < -4.166667e-01 )
+Classificazione dell dato 5, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-6: [;-0.400000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -4.000000e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -4.000000e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -4.000000e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -4.000000e-01 < -3.833333e-01 )
+Classificazione dell dato 6, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-7: [;-0.333333;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -3.333333e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -3.333333e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -3.333333e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -3.333333e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -3.333333e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -3.333333e-01 < -3.000000e-01 )
+Classificazione in basse alla feature 3, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 7, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-8: [;-0.300000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 8, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-9: [;-0.300000;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 9, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-10: [;-0.266667;-1.000000;-1.000000;1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 10, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-11: [;-0.233333;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.333333e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -2.333333e-01 < -2.000000e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 11, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-12: [;-0.200000;-1.000000;1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -2.000000e-01 < -2.000000e-01 )
+Classificazione in basse alla feature 3, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 12, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-13: [;-0.200000;-1.000000;-1.000000;1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -2.000000e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta LEFT ( -2.000000e-01 < -2.000000e-01 )
+Classificazione in basse alla feature 3, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 13, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-14: [;-0.133333;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( -1.333333e-01 > -2.000000e-01 )
+Classificazione dell dato 14, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-15: [;0.400000;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 4.000000e-01 > -2.000000e-01 )
+Classificazione dell dato 15, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-16: [;0.500000;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 16, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-17: [;0.500000;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 17, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-18: [;0.633333;-1.000000;-1.000000;-1.000000;-1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 6.333333e-01 > -2.000000e-01 )
+Classificazione dell dato 18, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-19: [;0.633333;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 19, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-20: [;0.733333;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 20, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-21: [;0.866667;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 21, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-22: [;0.866667;1.000000;1.000000;-1.000000;1.000000;-1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta LEFT ( -1 < 0 )
+Classificazione dell dato 22, scelta CLASSE -1
+----------------------------------------------------------------
+Classificazione dell dato X-23: [;0.900000;1.000000;1.000000;1.000000;1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta RIGHT ( 1 > 0 )
+Classificazione in basse alla feature 4, scelta RIGHT ( 1 > 0 )
+Classificazione dell dato 23, scelta CLASSE 1
+----------------------------------------------------------------
+Classificazione dell dato X-24: [;0.966667;-1.000000;1.000000;1.000000;-1.000000;1.000000]
+Classificazione in basse alla feature 5, scelta LEFT ( -1 < 0 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -4.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -4.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -4.166667e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -3.833333e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -3.500000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -3.000000e-01 )
+Classificazione in basse alla feature 1, scelta RIGHT ( 9.666667e-01 > -2.000000e-01 )
+Classificazione dell dato 24, scelta CLASSE -1
